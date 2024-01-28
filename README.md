@@ -35,7 +35,7 @@ meteor npm install
 meteor --port <portname>
 
 
-Access the application through the provided URL.
+Access the application through the provided URL : https://loan-management-mergerware.meteorapp.com/
 
 Register as a user with your email address and choose your role.
 
