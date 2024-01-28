@@ -1,70 +1,39 @@
-🏦 Loan Management System
-This application is designed to manage loans between borrowers and lenders, with an admin interface to oversee all transactions. Users can register with their email addresses, choose roles (admin, borrower, lender), request loans, confirm loan payments, and view transaction history.
-
-📋 Table of Contents
+Loan Management System
+Overview
+The Loan Management System is a robust application designed to facilitate and streamline loan transactions between borrowers and lenders. The system includes a user-friendly interface with distinct functionalities for different user roles, such as admin, borrower, and lender. Users can register using their email addresses, select their roles, request loans, manage payments, and access transaction history.
 
 Features
+User Registration
+Email Registration: Users can register with the system using their email addresses.
+Role Selection
+Admin, Borrower, Lender Roles: Users have the flexibility to choose their roles during registration or update them later.
+Borrower Functionality
+Loan Requests: Borrowers can easily request a loan through the system.
+Loan History: Borrowers can view a comprehensive history of their past loans.
+Lender Functionality
+Confirm Payments: Lenders have the ability to confirm loan payments.
+Payment History: Lenders can access a record of past payments received.
+Real-time Dashboard Updates
+Dynamic Status Updates: Users experience real-time updates on their dashboards, reflecting changes in the status of their loan transactions.
+Admin Dashboard
+Transaction Histories: Admin users have privileged access to view complete transaction histories, ensuring transparency and oversight.
 
 Installation
 
-Usage
+Make a Directory:
 
-Contributing
+mkdir folder
+cd folder
 
-License
-
-✨ Features
-
-User Registration: Any number of users can register using their email addresses.
-
-Role Selection: Users can choose from the roles of admin, borrower, or lender upon registration or later.
-
-Borrower Functionality:
-      - Request a loan.
-      - View existing past loans.
-      
-Lender Functionality:
-     -  Confirm loan payments.
-     -iew existing past payments.
-     
-Dashboard Updates: Changes in status are reflected on each user's dashboard in real-time.
-
-Admin Dashboard: Admin users have access to view complete transaction histories.
-
-🚀 Installation
-
-Clone the repository from GitHub:
-
-bash
-
-
-Copy code
-
+Clone the repository from GitHub(in terminal of current folder):
 
 git clone https://github.com/your-username/loan-management-system.git
 
+In terminal run following commands:
 
-Navigate to the project directory:
+meteor npm install
+meteor --port <portname>
 
-
-bash
-Copy code
-cd loan-management-system
-Install dependencies:
-
-Copy code
-
-npm install
-
-💻 Usage
-
-Start the application:
-
-sql
-
-Copy code
-
-npm start
 
 Access the application through the provided URL.
 
@@ -79,21 +48,13 @@ Lender: Confirm loan payments and view past payments.
 Admin: View complete transaction histories.
 
 
-🤝 Contributing
 
-Contributions are welcome! Please fork the repository and create a pull request with your proposed changes.
-
-📄 License
-
-This project is licensed under the MIT License.
-
-Feel free to customize this template according to your specific project details and requirements.
 
 Contact
 
 Feel free to reach out to us for any questions or feedback:
 
 
-Email: hariharan.k1107@gmail.com
+Email: simar.dhami1902@gmail.com
 
-GitHub: https://github.com/Hari1107/Mergerware 
+GitHub: https://github.com/SimarDhami
